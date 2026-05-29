@@ -1,0 +1,9 @@
+<svg width="600" height="220" viewBox="0 0 600 220" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="220" fill="#0F0B08"/>
+  <g transform="translate(70,25)">
+    <path d="M90 0 C45 20 35 80 55 125 C70 160 110 175 140 150 C170 125 165 80 140 55 C120 35 118 20 120 0 Z" fill="none" stroke="#C89B62" stroke-width="12"/>
+    <path d="M105 20 C85 45 80 85 88 120 C95 150 110 170 125 185" fill="none" stroke="#F5F0EA" stroke-width="10" stroke-linecap="round"/>
+  </g>
+  <text x="230" y="115" font-size="72" font-family="Arial, Helvetica, sans-serif" fill="#F5F0EA" letter-spacing="12">KAFE</text>
+  <text x="345" y="165" font-size="28" font-family="Arial, Helvetica, sans-serif" fill="#C89B62" letter-spacing="4">c.a.</text>
+</svg>
