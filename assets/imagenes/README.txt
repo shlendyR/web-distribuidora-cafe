@@ -1,0 +1,1 @@
+Coloca aquí imágenes reales de fincas cafetaleras y café (en pepa y molido) para un aspecto más orgánico. Puedes descargar imágenes libres de derechos de sitios como Unsplash, Pexels o Pixabay.
